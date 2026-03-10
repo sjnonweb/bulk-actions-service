@@ -1,8 +1,8 @@
-# Highlevel Bulk Action
+# Bulk Action
 
 ## Description
 
-Bulk actions service for ingesting huge csv files into your database.
+Bulk actions microservice for ingesting huge csv files into your database. Import/Export data at scale. 
 
 Tech stack:
 
